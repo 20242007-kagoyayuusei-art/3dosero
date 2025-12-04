@@ -1,10 +1,9 @@
-using System;
+using UnityEngine;
 
-class Program
+public class Program : MonoBehaviour
 {
-    static void Main()
+    void Start()
     {
-        Console.WriteLine("hello!");
-        Console.ReadLine();
+        Debug.Log("hello!");
     }
 }
