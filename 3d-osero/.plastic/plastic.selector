@@ -1,0 +1,4 @@
+repository "3d-osero/3d-osero@15669627484640@cloud"
+  path "/"
+    br "/main"
+    co "/main"
